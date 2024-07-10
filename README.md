@@ -1,4 +1,4 @@
-<img src="(https://github.com/karayilanberat/Magic-8-Ball/assets/125715212/3bd8b2a8-62e4-44fb-a69b-8560987fc6c7" width="300">
+<img src="https://github.com/karayilanberat/Magic-8-Ball/assets/125715212/3bd8b2a8-62e4-44fb-a69b-8560987fc6c7" width="300">
 
 
 # Magic 8 Ball
